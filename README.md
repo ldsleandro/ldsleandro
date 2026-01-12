@@ -1,4 +1,4 @@
-# 👩🏻 Leandro Silva
+# 👨‍🦱 Leandro Silva
 
 **`Desenvolvedor de Software`**
 
