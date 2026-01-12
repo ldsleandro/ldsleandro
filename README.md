@@ -1,5 +1,7 @@
 # 👨‍🦱 Leandro Silva
 
+![Texto Alt]([caminho/para/seu.gif](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif))
+
 **`Desenvolvedor de Software`**
 
 Me chamo Leandro Silva, tenho 39 anos e sou natural de São Paulo. Concluí o Bacharelado em Tecnologia da Informação e, atualmente, estou cursando Engenharia da Computação. Sou apaixonado por tecnologia!
