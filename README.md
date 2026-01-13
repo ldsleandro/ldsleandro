@@ -1,4 +1,4 @@
-# 👨‍🦱 Leandro Silva
+# 🧙🏻‍♂️ Leandro Silva
 
 ![Texto Alt](git.gif)
 
